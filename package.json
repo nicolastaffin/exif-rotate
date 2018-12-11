@@ -1,0 +1,8 @@
+{
+  "name": "exif-rotate",
+  "description": "Rotates image with GD folloxing exif orientation field",
+  "author": "Nicolas Taffin <https://polylogue.com>",
+  "version": "1.0.0",
+  "type": "kirby-plugin",
+  "license": "MIT Licence"
+}
