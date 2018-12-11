@@ -3,7 +3,9 @@
 Rotates image with GD according to image embeded exif orientation field.
 Useful with mobile device pictures.
 
-Tested with Kirby 2.5.5
+![exif-rotate](assets/images/rotate.jpg)
+
+Tested with Kirby 2.5.5/
 
 The plugin is free.
 
